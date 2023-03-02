@@ -1,6 +1,6 @@
 # Module Project: 
 
-This project allows you to practice the concepts and techniques learned in today's lecture: implenting semantic HTML and getting comfortable with CSS. 
+This project allows you to practice the concepts and techniques learned in today's lecture: implementing semantic HTML and getting comfortable with CSS. 
 
 
 ## Expectations
