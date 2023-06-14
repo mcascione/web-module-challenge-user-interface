@@ -57,6 +57,10 @@ img {
   width: 605px;
 }
 
+.container header nav {
+  white-space: nowrap;
+}
+
 .container header nav a {
   margin: 0 10px;
   border: 1px solid lightgray;
